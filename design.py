@@ -1,4 +1,4 @@
-# Colors
+# Program Colors
 prime_color = "#5356FF"
 sec_color="#378CE7"
 light_color="white"
