@@ -1,3 +1,8 @@
+# UASTAL CMS SYSTEM
+# 17/05/2025
+# Kior Oleksandr Sergyovich
+# Invoice Creator
+
 import flet as ft
 import json
 from design import *
